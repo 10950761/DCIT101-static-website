@@ -1,0 +1,47 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: "handlee","cursive";
+    font-size: 13pt;
+    background-color: yellowgreen;
+    padding: 10px;
+    margin: 0;
+}
+h1 {
+font-size: 15pt;
+color:magenta;
+text-align: center;
+padding: 18px 0 18px 0;
+margin: 0 0 10px 0;
+}
+p {
+    padding: 0;
+    margin: 0;
+}
+table, tr, td {
+    border: 2px solid royalblue;
+    text-align: center;
+    table-layout: fixed;
+    text-emphasis-color: Yellow;
+}
+.selected {
+    background-color :yellow ;
+    font-weight: bold;
+    color: blue;
+}
+form {
+    text-emphasis: center;
+    margin-top: 0;
+}
+.Submit {
+    background-color: magenta;
+    padding: 12px 45px;
+    border-radius: 5px; 
+    cursor: pointer;
+    font-weight: bold;
+}
+.video {
+    padding-right:0 ;
+}
